@@ -1,2 +1,2 @@
 # spreedsheet_automation
-Spreedsheet Automatiom app
+Spreadsheet Automatiom app
