@@ -1,2 +1,2 @@
-# spreedsheet_automation
+# spreadsheet_automation
 Spreadsheet Automatiom app
